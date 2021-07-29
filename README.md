@@ -3,7 +3,7 @@
  2. 환경 : Apache Tomcat 8.0
  3. 주제 : 게시판기능이 있는 뜨게질 커뮤니티 사이트
  4. 개발 : STS, MySQL
- 5. 사용언어 : JAVA, MySQL, JSP/Servlet
+ 5. 사용언어 : JAVA, MySQL, JSP/Servlet, JavaScript
    (프론트는 무료 템플릿을 수정하고 추가해서 사용)
 
 #### 구현 기능
